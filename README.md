@@ -40,7 +40,7 @@ The cloud component comprises two servers; Server 1 is used for fall detection, 
 
 **Vehicle Detection**
 
-- A pre-trained Tiny - YOLOv3[^3] model is used to detect vehicles
+- A pre-trained Tiny - YOLOv3 model is used to detect vehicles
 - An algorithm is used to detect the changes of size of vehicles between each frames to determine the safety status
 - The video stream obtained is recorded and saved in 10 seconds chunk, and most recent 20 videos are kept
 
