@@ -20,7 +20,7 @@ While cyclists can observe the road conditions most of the time, blindspots are 
 
 ### System Architecture
 
-![](images/Aspose.Words.57d6fec9-9828-4ddc-b7db-1f1a93a7f7c4.002.png)
+![](images/system-architecture.png)
 
 As seen from the diagram, the system architecture is made up of two primary components: the edge devices and the cloud.
 
