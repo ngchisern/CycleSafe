@@ -2,6 +2,8 @@
 
 ## Introduction
 
+https://user-images.githubusercontent.com/64767959/206710205-fe706b10-0ff5-46b9-931f-0297390d0618.mp4
+
 Amid a COVID-19-inspired boom in the popularity of cycling, the number of road traffic accidents involving bicycles has since increased. An average of about 560 serious accidents involving cyclists on roads have been recorded yearly in the past five years. Accidents usually happen due to negligent drivers and the inconvenience of the cyclists to constantly check the situation behind and in blind spots. These accidents are dangerous and possibly life-threatening, particularly for cyclists compared to drivers. Furthermore, some injured cyclists face difficulties in contacting for help, and this issue is magnified when there is no one around to help them.
 
 Our proposed solution, hence, aims to minimise the negative consequences of cycling accidents and reduce the chances of these accidents by introducing a comprehensive Internet of Things (IoT) system. This system comprises three main components: vehicle detection, fall detection, and an alarm system.
